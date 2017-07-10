@@ -1,0 +1,8 @@
+C:\Users\Ashok\Documents\Visual Studio 2010\Projects\Testwinform\Testwinform\bin\Release\PS Commander.exe
+C:\Users\Ashok\Documents\Visual Studio 2010\Projects\Testwinform\Testwinform\bin\Release\PS Commander.pdb
+C:\Users\Ashok\Documents\Visual Studio 2010\Projects\Testwinform\Testwinform\obj\x86\Release\Testwinform.Form1.resources
+C:\Users\Ashok\Documents\Visual Studio 2010\Projects\Testwinform\Testwinform\obj\x86\Release\Testwinform.HelpForm.resources
+C:\Users\Ashok\Documents\Visual Studio 2010\Projects\Testwinform\Testwinform\obj\x86\Release\Testwinform.Properties.Resources.resources
+C:\Users\Ashok\Documents\Visual Studio 2010\Projects\Testwinform\Testwinform\obj\x86\Release\PS Commander.csp.csproj.GenerateResource.Cache
+C:\Users\Ashok\Documents\Visual Studio 2010\Projects\Testwinform\Testwinform\obj\x86\Release\PS Commander.exe
+C:\Users\Ashok\Documents\Visual Studio 2010\Projects\Testwinform\Testwinform\obj\x86\Release\PS Commander.pdb

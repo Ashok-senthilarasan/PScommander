@@ -1,0 +1,2 @@
+C:\Users\Ashok\Documents\Visual Studio 2010\Projects\Testwinform\Testwinform\obj\x86\Debug\PS Command Generator 1.0.0.exe
+C:\Users\Ashok\Documents\Visual Studio 2010\Projects\Testwinform\Testwinform\obj\x86\Debug\PS Command Generator 1.0.0.pdb

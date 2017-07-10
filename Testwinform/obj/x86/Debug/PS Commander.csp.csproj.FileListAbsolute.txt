@@ -1,0 +1,9 @@
+C:\Users\Ashok\Documents\Visual Studio 2010\Projects\Testwinform\Testwinform\bin\Debug\PS Commander.exe
+C:\Users\Ashok\Documents\Visual Studio 2010\Projects\Testwinform\Testwinform\bin\Debug\PS Commander.pdb
+C:\Users\Ashok\Documents\Visual Studio 2010\Projects\Testwinform\Testwinform\obj\x86\Debug\Testwinform.Form1.resources
+C:\Users\Ashok\Documents\Visual Studio 2010\Projects\Testwinform\Testwinform\obj\x86\Debug\Testwinform.HelpForm.resources
+C:\Users\Ashok\Documents\Visual Studio 2010\Projects\Testwinform\Testwinform\obj\x86\Debug\Testwinform.Properties.Resources.resources
+C:\Users\Ashok\Documents\Visual Studio 2010\Projects\Testwinform\Testwinform\obj\x86\Debug\PS Commander.csp.csproj.GenerateResource.Cache
+C:\Users\Ashok\Documents\Visual Studio 2010\Projects\Testwinform\Testwinform\obj\x86\Debug\PS Commander.exe
+C:\Users\Ashok\Documents\Visual Studio 2010\Projects\Testwinform\Testwinform\obj\x86\Debug\PS Commander.pdb
+C:\Users\Ashok\Documents\Visual Studio 2010\Projects\Testwinform\Testwinform\obj\x86\Debug\PS Commander.csp.csprojResolveAssemblyReference.cache

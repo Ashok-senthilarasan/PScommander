@@ -1,0 +1,9 @@
+C:\Users\Ashok\documents\visual studio 2010\Projects\Testwinform\Testwinform\obj\x86\Release\PS Command Generator 1.0.0.exe
+C:\Users\Ashok\documents\visual studio 2010\Projects\Testwinform\Testwinform\obj\x86\Release\PS Command Generator 1.0.0.pdb
+C:\Users\Ashok\documents\visual studio 2010\Projects\Testwinform\Testwinform\bin\Release\PS Command Generator 1.0.0.exe
+C:\Users\Ashok\documents\visual studio 2010\Projects\Testwinform\Testwinform\bin\Release\PS Command Generator 1.0.0.pdb
+C:\Users\Ashok\documents\visual studio 2010\Projects\Testwinform\Testwinform\obj\x86\Release\Testwinform.Form1.resources
+C:\Users\Ashok\documents\visual studio 2010\Projects\Testwinform\Testwinform\obj\x86\Release\Testwinform.Properties.Resources.resources
+C:\Users\Ashok\documents\visual studio 2010\Projects\Testwinform\Testwinform\obj\x86\Release\PS Command Generator.csproj.GenerateResource.Cache
+C:\Users\Ashok\Documents\Visual Studio 2010\Projects\Testwinform\Testwinform\obj\x86\Release\PS Command Generator.csprojResolveAssemblyReference.cache
+C:\Users\Ashok\Documents\Visual Studio 2010\Projects\Testwinform\Testwinform\obj\x86\Release\Testwinform.HelpForm.resources
